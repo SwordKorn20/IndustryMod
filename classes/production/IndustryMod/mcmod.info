@@ -1,0 +1,16 @@
+[
+{
+  "modid": "industrymod",
+  "name": "Industry Mod",
+  "description": "Adds electrical and industrial machinery",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sword_Korn"],
+  "credits": "Sword_Korn",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

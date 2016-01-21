@@ -1,0 +1,6 @@
+{
+  "parent":"industrymod:item/standard_item",
+  "textures": {
+    "layer0":"industrymod:items/test_item"
+  }
+}
